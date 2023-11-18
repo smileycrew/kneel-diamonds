@@ -1,0 +1,35 @@
+.choices-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.metal-choices {
+    border: 1px dashed black;
+    border-radius: 20px;
+    padding: 30px;
+    flex-grow: 0;
+}
+
+.size-choices {
+    border: 1px dashed black;
+    border-radius: 20px;
+    padding: 30px;
+    flex-grow: 0;
+}
+
+.style-choices {
+    border: 1px dashed black;
+    border-radius: 20px;
+    padding: 30px;
+    flex-grow: 0;
+}
+
+.save-container {
+    padding: 10px;
+}
+
+#button {
+    margin: 1%;
+    background-color: aqua;
+}
